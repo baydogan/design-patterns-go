@@ -1,0 +1,10 @@
+{
+  "notification_type": "email",
+  "email": {
+    "smtp_server": "smtp.mailserver.com",
+    "from": "noreply@example.com"
+  },
+  "sms": {
+    "api_key": "SMS-123456-SECRET"
+  }
+}
